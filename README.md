@@ -1,7 +1,4 @@
-### HTML Projects
+### Practise Projects
 
-The repository contains all the HTML projects I worked on while learning HTML!
+The repository contains all the projects I worked on while learning different tools and technologies!
 
-<ol>
-  <li> Personal Page </li>
-</ol>
